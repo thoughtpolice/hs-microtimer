@@ -1,6 +1,6 @@
 # A tiny Haskell library for timing IO actions.
 
-[![Build Status](https://secure.travis-ci.org/thoughtpolice/microtimer.png?branch=master)](http://travis-ci.org/thoughtpolice/microtimer)
+[![Build Status](https://secure.travis-ci.org/thoughtpolice/hs-microtimer.png?branch=master)](http://travis-ci.org/thoughtpolice/hs-microtimer)
 
 This package contains a very simple module for benchmarking `IO`
 actions. It was taken from [criterion][].
@@ -36,25 +36,25 @@ in the GitHub [issue tracker][].
 
 Master [git repository][gh]:
 
-* `git clone https://github.com/thoughtpolice/microtimer.git`
+* `git clone https://github.com/thoughtpolice/hs-microtimer.git`
 
 There's also a [BitBucket mirror][bb]:
 
-* `git clone https://bitbucket.org/thoughtpolice/microtimer.git`
+* `git clone https://bitbucket.org/thoughtpolice/hs-microtimer.git`
 
 # Authors
 
-See [AUTHORS.txt](https://raw.github.com/thoughtpolice/microtimer/master/AUTHORS.txt).
+See [AUTHORS.txt](https://raw.github.com/thoughtpolice/hs-microtimer/master/AUTHORS.txt).
 
 # License
 
 BSD3. See
-[LICENSE.txt](https://raw.github.com/thoughtpolice/microtimer/master/LICENSE.txt)
+[LICENSE.txt](https://raw.github.com/thoughtpolice/hs-microtimer/master/LICENSE.txt)
 for terms of copyright and redistribution.
 
 [criterion]: http://hackage.haskell.org/package/criterion
-[contribute]: https://github.com/thoughtpolice/microtimer/blob/master/CONTRIBUTING.md
-[issue tracker]: http://github.com/thoughtpolice/microtimer/issues
-[gh]: http://github.com/thoughtpolice/microtimer
-[bb]: http://bitbucket.org/thoughtpolice/microtimer
+[contribute]: https://github.com/thoughtpolice/hs-microtimer/blob/master/CONTRIBUTING.md
+[issue tracker]: http://github.com/thoughtpolice/hs-microtimer/issues
+[gh]: http://github.com/thoughtpolice/hs-microtimer
+[bb]: http://bitbucket.org/thoughtpolice/hs-microtimer
 [Hackage]: http://hackage.haskell.org/package/microtimer
