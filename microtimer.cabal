@@ -2,8 +2,8 @@ name:                microtimer
 version:             0.0.1.1
 synopsis:            A tiny library for benchmarking IO actions.
 description:         A tiny library for benchmarking IO actions.
-homepage:            http://thoughtpolice.github.com/microtimer
-bug-reports:         http://github.com/thoughtpolice/microtimer/issues
+homepage:            http://thoughtpolice.github.com/hs-microtimer
+bug-reports:         http://github.com/thoughtpolice/hs-microtimer/issues
 license:             BSD3
 license-file:        LICENSE.txt
 copyright:           Copyright (c) Bryan O'Sullivan 2009-2010,
@@ -20,7 +20,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/thoughtpolice/microtimer.git
+  location: https://github.com/thoughtpolice/hs-microtimer.git
 
 library
   exposed-modules:
