@@ -1,5 +1,5 @@
 name:                microtimer
-version:             0.0.0.0
+version:             0.0.1.0
 synopsis:            A tiny library for benchmarking IO actions.
 description:         A tiny library for benchmarking IO actions.
 homepage:            http://thoughtpolice.github.com/microtimer
