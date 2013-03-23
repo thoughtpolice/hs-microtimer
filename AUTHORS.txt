@@ -4,4 +4,4 @@ This code was initially written by:
 
 Current maintainer, target of blame:
 
-  Austin Seipp <mad [dot] one [@at] gmail [dot] com>
+  Austin Seipp <aseipp [@at] pobox [.dot] com>
