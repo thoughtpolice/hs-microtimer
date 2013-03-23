@@ -16,7 +16,7 @@
 -- written by Bryan O'Sullivan.
 -- 
 module System.Microtimer
-    ( -- * Running 'IO' actions.
+    ( -- * Timing 'IO' actions.
       time          -- :: IO a -> IO (Double, a)
     , time_         -- :: IO a -> IO Double
       -- * Formatting timing results.
