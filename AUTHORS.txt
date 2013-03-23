@@ -1,0 +1,7 @@
+This code was initially written by:
+
+  Bryan O'Sullivan
+
+Current maintainer, target of blame:
+
+  Austin Seipp <mad [dot] one [@at] gmail [dot] com>
